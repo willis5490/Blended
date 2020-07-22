@@ -1,0 +1,63 @@
+/* Header */
+.verticalHR{
+    background-color:#C80000;
+    color:#C80000;
+    -webkit-transform:rotate(90deg);
+    width:100px;
+    height:2px;
+    border:2px;
+    margin: -40px !important;
+}
+
+#BlendedMainHeader{
+    margin-top: 10px !important;
+    margin-bottom: 10px !important;
+    margin-right: 60px;
+    margin-left: 60px;
+    font-size: 80px;
+}
+#galeeryIcon{
+    margin: 10px 30px 10px 0px;
+}
+.secondBorderText{
+    letter-spacing: 5px;
+}
+.thirdBorderText{
+    letter-spacing: 3px;
+}
+
+/* Menu Desktop Element */
+.App{
+    position: relative;
+}
+.desktopMenu{
+    position: absolute;     
+    top: 0;
+    left: 0;
+    width: 150px;
+    height: 350px;
+    border: 2px black solid;
+    background-color: white;
+}
+
+/* Slider  */
+.desktopSlidePics{
+    width: 80%;
+    height: 500px;
+}
+
+/* Footer */
+.footerSocialMediaIcons{
+    margin: 10px;
+}
+#footerWrapper{
+    border-top: 2px solid black;
+}
+#middleFooterContainer{
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+    border-radius: 10px;
+}
+.footerContainers{
+    padding: 10px
+}
